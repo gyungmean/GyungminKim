@@ -1,2 +1,1 @@
-# GyungminKim
-AWS를 이용한 자기소개 웹페이지
+![AWS-PROJECT](https://user-images.githubusercontent.com/70059000/130176460-a8011499-4344-44c6-b10e-3170ea6ee990.png)
